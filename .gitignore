@@ -1,0 +1,5 @@
+.DS_Store
+**/*.kicad_prl
+
+hw/vb129_cannify_micro/fp-info-cache
+hw/vb129_cannify_micro/cannify_micro-backups/*.zip
