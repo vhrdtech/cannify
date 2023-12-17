@@ -3,3 +3,7 @@
 
 hw/vb129_cannify_micro/fp-info-cache
 hw/vb129_cannify_micro/cannify_micro-backups/*.zip
+
+hw_bb/vb131_psu_light/fp-info-cache
+hw_bb/vb131_psu_light/psu_light-backups/*.zip
+
